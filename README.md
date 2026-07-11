@@ -97,7 +97,7 @@ Production-ready Kubernetes deployment using Terraform, Helm, GitHub Actions and
 **https://gauravbalpande.website**
 
 💼 LinkedIn  
-**https://linkedin.com/in/gauravbalpande](https://www.linkedin.com/in/gaurav-mukunda-balpande-9b6717257/**
+**https://www.linkedin.com/in/gaurav-mukunda-balpande-9b6717257/**
 
 🐙 GitHub  
 **https://github.com/gauravbalpande**
