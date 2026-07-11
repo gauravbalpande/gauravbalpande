@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Gaurav Balpande
 
-<!--
-**gauravbalpande/gauravbalpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer from India.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- Go
+- Java
+- GitHub Actions
+- PostgreSQL
+- Linux
+
+## Current Focus
+
+- Site Reliability Engineering
+- Open Source
+- Cloud Security
+- Kubernetes
+
+## Open Source
+
+Currently contributing to:
+
+- Data Exfiltration Detection Engine
+- Dev Collaboration Hub
+
+## Projects
+
+🚀 AuctionXi
+
+Cloud-native auction platform.
+
+☁️ Cloud Inventory Management
+
+Serverless inventory application on AWS.
+
+📦 Kubernetes Infrastructure
+
+Terraform + Helm + GitHub Actions.
+
+## Connect
+
+LinkedIn
+
+Portfolio
+
+Email
