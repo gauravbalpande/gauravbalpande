@@ -8,7 +8,7 @@ I'm a Computer Science graduate from India passionate about building scalable cl
 - 🚀 Building cloud-native applications using **AWS, Kubernetes, Docker & Terraform**
 - 💻 Exploring **Go**, Backend Engineering, and Distributed Systems
 - 🤝 Open to collaborating on Cloud, DevOps, and Open Source projects
-- 📫 Reach me at **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at **gauravbalpande18@gmail.com**
 
 ---
 
